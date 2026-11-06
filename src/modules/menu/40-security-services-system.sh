@@ -158,7 +158,7 @@ menu_services() {
 # every module before activating (BUG-025), and an upgrade
 # preserves credentials and scoring.conf. NX_UPDATE_BASE is a
 # test hook.
-NX_UPDATE_BASE="${NX_UPDATE_BASE:-https://raw.githubusercontent.com/MNSH-Nexo/NexoShield/master}"
+NX_UPDATE_BASE="${NX_UPDATE_BASE:-https://raw.githubusercontent.com/Altonomega/NexoShield/master}"
 nx_update_nexoshield() {
     local _latest _tmp _rc
     echo -e "  ${C}Checking for updates...${NC}"

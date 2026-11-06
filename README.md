@@ -100,7 +100,7 @@ You can use it purely for **server security** — or also enable the built-in **
 یک دستور کافی است:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/MNSH-Nexo/NexoShield/master/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/Altonomega/NexoShield/master/install.sh)
 ```
 
 نیازی به clone یا دانلود جداگانه نیست؛ همین دستور را روی سرور Ubuntu اجرا کنید.
@@ -401,6 +401,6 @@ Built with the assistance of [HappySeeds AI](https://happyseeds.ai)
 
 <div align="center">
 
-Made with care by [MNSH-Nexo](https://github.com/MNSH-Nexo)
+Made with care by [Altonomega](https://github.com/Altonomega)
 
 </div>
